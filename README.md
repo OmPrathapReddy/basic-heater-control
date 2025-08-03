@@ -1,1 +1,1 @@
-# basic-heater-control
+This was an evaluation of the first code snippet you provided. I explained that the code was incorrect because it only implemented a simple on/off logic with a single threshold. It was missing the essential five-state.
